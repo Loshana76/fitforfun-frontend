@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import Subscription from './components/Subscription'
+import Subscription from "./styles/Subscription";
 import './styles/theme.css'
 import './styles/app.css'
 
