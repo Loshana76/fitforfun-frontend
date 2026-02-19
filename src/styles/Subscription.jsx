@@ -1,4 +1,4 @@
-import './styles/subscription.css'
+import './subscription.css'
 
 export default function Subscription({ lang, onSubscribe }) {
   const isBG = lang === 'bg'
